@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Caleb Bradfield
-- 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning node.js
+
 
 
 <!---
